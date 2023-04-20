@@ -1,8 +1,8 @@
 #include <stdio.h>
 /**
  * main - Prints the various type based on
- * the computer it is compiled on.
- * Return: Always 0.
+ * the computer it is compiled on
+ * Return: Always 0
 */
 
 int main(void)
