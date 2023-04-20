@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - Prints the various type based on
+ * main - Print the various type based on
  * the computer it is compiled on
  * Return: 0
 */
