@@ -2,9 +2,9 @@
 #include "main.h"
 
 /**
- * _strch - function that locates a character in a string
- * @S:input
- * @C: input
+ * _strchr - function that locates a character in a string
+ * @s:input
+ * @c: input
  * Return: 0
  */
 char *_strchr(char *s, char c)
