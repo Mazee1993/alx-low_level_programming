@@ -1,7 +1,7 @@
 #ifndef
 #define
 
-int ain(void);
+int main(void);
 int _putchar(char c);
 
 #endif
