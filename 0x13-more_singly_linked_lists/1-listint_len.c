@@ -2,7 +2,7 @@
 
 /**
  * listint_len - Function returning number of elements in linked listint_t list
- * @h: Pointer to the head of the linked list
+ * @h: Pointer to the head of the linkint_t
  * Retuen: The numb of elements in linked listint_t list
  */
 size_t listint_len(const listint_t *h)
